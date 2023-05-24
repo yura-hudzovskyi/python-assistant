@@ -30,29 +30,24 @@ The chatbot also incorporates keyword matching and similarity scoring to improve
 ```shell
 git clone https://github.com/yura-hudzovskyi/python-assistant.git
 ```
-2. Navigate to the project directory:
 
-```shell
-cd python-assistant
-```
-
-3. Install the required packages:
+2. Install the required packages:
 
 ```shell
 pip install -r requirements.txt
 ```
 
-4.  Set up the OpenAI API key:
+3.  Set up the OpenAI API key:
    - Obtain an API key from OpenAI.
    - Set the OPENAI_API_KEY environment variable with your API key.
 
-5. Run the application:
+4. Run the application:
     
 ```shell
 uvicorn main:app --reload
 ```
 
-6. Access the chatbot in your browser:
+5. Access the chatbot in your browser:
 
 - Open http://localhost:8000 in your web browser.
 - Enter a question in the input form and submit.
