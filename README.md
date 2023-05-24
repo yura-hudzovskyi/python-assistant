@@ -28,12 +28,12 @@ The chatbot also incorporates keyword matching and similarity scoring to improve
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/question-and-answer-chatbot.git
+git clone https://github.com/yura-hudzovskyi/python-assistant.git
 ```
 2. Navigate to the project directory:
 
 ```shell
-cd question-and-answer-chatbot
+cd python-assistant
 ```
 
 3. Install the required packages:
